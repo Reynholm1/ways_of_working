@@ -30,17 +30,17 @@ _*As we all are, it is a work in progress_
 
 ## How I give and receive feedback
 * I find regular feedback helpful, when I'm finishing a bit of work, please let me know how I've done on it - no matter how small.
-* I struggle to not focus on negatives in feedback.
+* I'm internally more negative, but am working on this. Please do provide me with constructive feedback.
 * The more specific the feedback the better.
-* I like to provide positive feedback in public whereever possible. 
-* I always try to provide constructive with a desired outcome.
+* I like to provide positive feedback in public wherever possible. 
+* When I provide feedback - I always try to provide constructive feedback with a desired outcome.
 
 ## How I learn
 * I learn by asking questions - no matter how basic.
 * Video tutorials, I find *just* reading a bit dry.
 * Mostly reactively, when a problem or study target arises.
 * Learn by doing - having a problem and solving for it.
-* mimicing, I will often take code someone else has written and adapt it.
+* mimicking, I will often take code someone else has written and adapt it.
 
 ## What I struggle with
 * no clear direction, I find it easier to work towards a specific, measurable goal.
@@ -50,7 +50,7 @@ _*As we all are, it is a work in progress_
 
 ## Things that I love
 * my family
-* working flexibly to spend as much time around my young family as possible (before they grow up and realise how embarassing I am)
+* working flexibly to spend as much time around my young family as possible (before they grow up and realise how embarrassing I am)
 * playing and watching sports, coffee, New Zealand
 * tech that makes my life easier.
 
